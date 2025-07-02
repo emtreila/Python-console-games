@@ -1,4 +1,4 @@
-# 👽 Alien game
+# 👽 Alien
 Two alien ships threaten to destroy Earth’s open source software! The player controls the planet’s defences, and during each turn attacks one square where an alien ship might be hiding.
 At the start of the game, Earth’s surroundings are displayed:
 
