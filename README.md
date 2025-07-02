@@ -3,7 +3,7 @@ Welcome to **Python Console Games**! I've built a collection of simple yet fun g
 
 ## 🕹️ Included games
 - Alien
-- Connect four
+- Connect Four
 - Game of life
 - Hammurabi
 - Hangman
