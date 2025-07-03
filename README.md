@@ -9,7 +9,6 @@ Welcome to **Python Console Games**! I've built a collection of simple yet fun g
 - Hangman
 - Order and Chaos
 - QuizMaster
-- Reservation process
 - Scramble
 - Snake
 - Stellar Journey
