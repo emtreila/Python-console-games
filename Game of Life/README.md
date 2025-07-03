@@ -13,10 +13,10 @@ At each step in time, the following transitions occur:
 
 - When started, the program displays the initially empty grid of 8x8 cells.
 - The program stores cell patterns in a read-only text-file. Any pattern can be added to the grid at any time.
-Users can place a pattern using the following command: *place <pattern> <x>,<y>* (e.g. place blinker 2,2 places a blinker with upper left corner at position 2,2);
-a. This adds the shape on the board, with *<x,y>* specifying its upper left corner.
+Users can place a pattern using the following command: *place <pattern> <x>,<y>* (e.g. place blinker 2,2 places a blinker with upper left corner at position 2,2);  
+a. This adds the shape on the board, with *<x,y>* specifying its upper left corner.  
 b. Live cells from a pattern cannot be outside the board and cannot overlap other live cells.
-- New generations are created using the *tick [n]* command (e.g. tick 99 advances the state with 99 generations).
+- New generations are created using the *tick [n]* command (e.g. tick 99 advances the state with 99 generations).  
 This updates the cell grid. *[n]* is an optional parameter with default value 1.
 - The current simulation state can be saved to a file at any time using the *save filename* command. A simulation can be loaded from a previously saved file using the *load filename* command. After loading, the simulation can be continued.
 

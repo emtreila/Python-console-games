@@ -4,21 +4,21 @@ QuizMaster is a console-based application that lets you create, save, and solve 
 
 ## 📌 Features
 ### 1. ➕ Add Questions to the Master List
-You can add questions to the master question list using:
-add <id>;<text>;<choice_a>;<choice_b>;<choice_c>;<correct_choice>;<difficulty>
+You can add questions to the master question list using:  
+add <id>;<text>;<choice_a>;<choice_b>;<choice_c>;<correct_choice>;<difficulty>  
 Where:
 - `id`: unique numeric ID
-- `difficulty`: one of `easy`, `medium`, or `hard`
+- `difficulty`: one of `easy`, `medium`, or `hard`  
 
 📌 Example: add 5;Which of the following numbers is prime?;5;56;75;5;easy
 
 ### 2. 🛠️ Create Quiz
-Generate a quiz from the master list:
-create <difficulty> <number_of_questions> <file>
+Generate a quiz from the master list:  
+create <difficulty> <number_of_questions> <file>  
 Where:
 - `difficulty` = easy, medium, or hard  
 - `number_of_questions` = how many questions to include  
-- `file` = name of the file to save the quiz
+- `file` = name of the file to save the quiz  
 
 📌 Example: create easy 10 quiz1.txt
 
