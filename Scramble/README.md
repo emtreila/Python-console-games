@@ -10,7 +10,7 @@
   - Keeping the **first and last letter** in place
   - Shuffling the **inner letters** (including across words)
 - The initial **score** is the number of letters (excluding spaces)  
-- The scrambled sentence is shown to the player **[2p]**
+- The scrambled sentence is shown to the player 
 
 ✅ Example:  
 Original: Dream without fear
