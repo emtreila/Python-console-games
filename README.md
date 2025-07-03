@@ -3,13 +3,13 @@ Welcome to **Python Console Games**! I've built a collection of simple yet fun g
 
 ## 🕹️ Included games
 - Alien
-- Connect four
-- Game of life
+- Connect Four
+- Game of Life
 - Hammurabi
 - Hangman
-- Order and chaos
-- Quiz master
+- Order and Chaos
+- Quiz Master
 - Reservation process
 - Scramble
 - Snake
-- Stellar journey
+- Stellar Journey
