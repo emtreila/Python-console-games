@@ -8,7 +8,7 @@ Welcome to **Python Console Games**! I've built a collection of simple yet fun g
 - Hammurabi
 - Hangman
 - Order and Chaos
-- Quiz Master
+- QuizMaster
 - Reservation process
 - Scramble
 - Snake
