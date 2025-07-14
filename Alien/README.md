@@ -10,9 +10,9 @@ At the start of the game, Earth’s surroundings are displayed:
 
 *Each turn is played as follows:*
 - fire <coordinate> (e.g. fire G1) = the player attacks a square. If the square contains an asteroid, or was already fired upon, the program displays an error message and the user can try again.
-If the square contains an alien ship, it is destroyed and the user informed. If both alien ships are destroyed the game is won 😊.
+If the square contains an alien ship, it is destroyed and the user informed. If both alien ships are destroyed the game is won.
 The square is marked using a minus sign and alien ships can no longer move there.
 - Each ship teleports to an empty square at the same distance (50% probability) or 1 square closer to Earth (50% probability).
-- If at least 1 alien ship is adjacent to the Earth the game is lost 😨
+- If at least 1 alien ship is adjacent to the Earth the game is lost 
 - cheat. = displays the playing grid, with remaining alien ships revealed
 
