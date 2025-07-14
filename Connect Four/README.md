@@ -1,5 +1,5 @@
 # 🔴🟡 Connect Four
-Connect Four is a classic two-player game recreated in the Python console. You face off against the computer in a battle of strategy and positioning—drop your discs into columns, and try to connect four in a row before the computer does!
+Connect Four is a classic two-player game recreated in the Python console. You face off against the computer in a battle of strategy and positioning-drop your discs into columns, and try to connect four in a row before the computer does!
 
 ## 📌 RULES
 - The game is played on a **6-row x 7-column** grid.
