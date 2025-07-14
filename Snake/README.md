@@ -4,7 +4,7 @@ A console-based implementation of the classic Snake game. The game is played on 
 
 ## 📌 GAME MECHANICS
 
-### 1. 🟦 Game Initialization
+### 1. Game Initialization
 - The game is played on an **N x N** board (read from a settings file).
 - The board includes:
   - A snake: 
@@ -17,7 +17,7 @@ A console-based implementation of the classic Snake game. The game is played on 
   - No two apples are adjacent vertically or horizontally
 - The number of apples is also read from the settings file
 
-### 2. 🕹️ Commands & Gameplay
+### 2. Commands & Gameplay
 The player can use the following commands:
 
 #### ➤ `move [n]`
@@ -29,12 +29,12 @@ The player can use the following commands:
 - Snake **cannot reverse 180°** (e.g. up → down)  
  
 
-### 3. 🍎 Eating Apples
+### 3. Eating Apples
 - If the snake's head reaches an apple:
   - The snake **grows by 1 segment**
   - A new apple is added elsewhere (respecting placement rules)  
 
-### 4. ❌ Game Over
+### 4. Game Over
 The game ends if:
 - The snake hits the edge of the board
 - The snake collides with itself  
